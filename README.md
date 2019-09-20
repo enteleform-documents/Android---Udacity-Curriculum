@@ -51,8 +51,8 @@ Please post any comments, feedback, or updates @ [**Reddit**](https://www.reddit
 
 &nbsp;
 
-\* *Courses that are followed by* ☆¹ *are part of the [**Android Basics**](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#android-basics) Nanodegree program.*  
-\* *Courses that are followed by* ☆² *are part of the [**Android Developer**](https://github.com/Enteleform/-RES-/blob/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md#android-developer) Nanodegree program.*  
+\* *Courses that are followed by* ☆¹ *are part of the [**Android Basics**](#android-basics) Nanodegree program.*  
+\* *Courses that are followed by* ☆² *are part of the [**Android Developer**](#android-developer) Nanodegree program.*  
 \* *Course lengths are based on Udacity's presumed allocation of 6 hours per week.*
 
 &nbsp;
@@ -174,7 +174,7 @@ $0 total ( *assuming you did not find a job, and meet the terms of the Nanodegre
 
 Course listings on this page were renamed to provide a context that shows course relationships.
 
-The `# Full Curriculum (Details)` section on the [**raw Markdown**](https://raw.githubusercontent.com/Enteleform/-RES-/master/%5BLinks%5D/%5BAndroid%5D%20Udacity%20Curriculum.md) page can be used to reference actual course names.
+The `# Full Curriculum (Details)` section on the [**raw Markdown**](https://raw.githubusercontent.com/enteleform-documents/Android---Udacity-Curriculum/master/README.md) page can be used to reference actual course names.
 
 If you want to check a specific course against the context-based names: the fastest way is probably to use your web browser's search function and paste the course name from the URL.&nbsp; [**For example**](http://imgur.com/BVKhIHO), `developing-android-apps` instead of `Developing Android Apps`.
 
